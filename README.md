@@ -13,7 +13,7 @@ Computer Science undergraduate specializing in C++, Python, Data Structures & Al
 ![](https://nirzak-streak-stats.vercel.app/?user=harshitrajput2802&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitrajput2802&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://raw.githubusercontent.com/harshitrajput2802/harshitrajput2802/output/snake-dark.svg?cache=off" width="100%" />
+<img src="https://raw.githubusercontent.com/harshitrajput2802/harshitrajput2802/output/snake.svg?cache=off" width="100%">
 
 ## What I Focus On
 - Data Structures & Algorithms (pattern-based problem solving)
