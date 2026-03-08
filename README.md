@@ -1,5 +1,5 @@
 # About Me:
-Computer Science undergraduate specializing in C++, Python, Data Structures & Algorithms, and Mathematical problem-solving. Actively solving algorithmic problems and building efficient, scalable solutions.
+Computer Science undergraduate specializing in C/C++, Python, Data Structures & Algorithms, and Mathematical problem-solving. Actively solving algorithmic problems and building efficient, scalable solutions.
 
 ## Tech Stack
 ![C](https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=39d353)
