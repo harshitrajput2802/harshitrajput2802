@@ -12,6 +12,7 @@ Computer Science undergraduate specializing in C/C++, Python, Data Structures & 
 ![](https://github-readme-stats.vercel.app/api?username=harshitrajput2802&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=harshitrajput2802&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitrajput2802&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitrajput2802&theme=github_dark&hide_border=true&background=0D1117&ring=FF6EC4&fire=FF6EC4&currStreakLabel=FF6EC4" height="165"/>
 
 <img src="https://raw.githubusercontent.com/harshitrajput2802/harshitrajput2802/output/snake.svg?cache=off" width="100%">
 
