@@ -29,7 +29,7 @@ Computer Science undergraduate specializing in C/C++, Python, Data Structures & 
 [![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=39d353)](mailto:harshitrajput2802@gmail.com)
 
 ## Problem Solving
-[![LeetCode](https://img.shields.io/badge/LeetCode-161b22?style=for-the-badge&logo=leetcode&logoColor=39d353)](https://leetcode.com/u/harshitrajput2802/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-161b22?style=for-the-badge&logo=leetcode&logoColor=39d353)](https://leetcode.com/u/harshit-2802-rajput/)
 
 ### TL;DR
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
